@@ -1,58 +1,60 @@
-! Title: DGA & Random Subdomain Spam Blocklist
-! Description: Blocks automated DGA (Domain Generation Algorithm) spam subdomains targeting search results.
-! Update Interval: 1
-
-*://*.admfzxkxsfka.site/*[cite: 1]
-*://*.qevcgxyfkwsw.business/*[cite: 1]
-*://*.phduzkelqyid.space/*[cite: 1]
-*://*.unmomnsvufda.team/*[cite: 1]
-*://*.kkpocydtrexl.boats/*[cite: 1]
-*://*.nxdwsybkdjjj.cam/*[cite: 1]
-*://*.galskubybjsk.cfd/*[cite: 1]
-*://*.tykybzwrzaph.hair/*[cite: 1]
-*://*.hueqosfwiaun.asia/*[cite: 1]
-*://*.wmwnmgpcjini.pw/*[cite: 1]
-*://*.ptenqbrsylwm.today/*[cite: 1]
-*://*.uwyicgtjvunb.work/*[cite: 1]
-*://*.isabrakmvcem.makeup/*[cite: 1]
-*://*.ejpsouhaqjau.work/*[cite: 1]
-*://*.xybxdgjminuo.pw/*[cite: 1]
-*://*.gvzfuuuojypk.autos/*[cite: 1]
-*://*.kpbmabdiagso.college/*[cite: 1]
-*://*.ypycphtnivqj.top/*[cite: 1]
-*://*.zunebuuihufz.beer/*[cite: 1]
-*://*.xdlkvdtvuzjr.boutique/*[cite: 1]
-*://*.hkmptaoxpylb.homes/*[cite: 1]
-*://*.luuifuatquwq.boutique/*[cite: 1]
-*://*.fymuklmdnuap.world/*[cite: 1]
-*://*.vapwbyvtjiyo.coupons/*[cite: 1]
-*://*.umiqqfnybpio.fit/*[cite: 1]
-*://*.djarxyfvpuph.rent/*[cite: 1]
-*://*.ocwmsgbjvoys.company/*[cite: 1]
-*://*.sdzcozrmikxl.ink/*[cite: 1]
-*://*.qvnhoeyiiptu.fit/*[cite: 1]
-*://*.ukofnxcbgglp.tattoo/*[cite: 1]
-*://*.vshpojnjtnvj.art/*[cite: 1]
-*://*.oyugdlllzhrl.bar/*[cite: 1]
-*://*.sttybaxqvwvb.courses/*[cite: 1]
-*://*.dregfxyherxa.wtf/*[cite: 1]
-*://*.hqjjnholkpfp.makeup/*[cite: 1]
-*://*.ftrtujytqbwi.pics/*[cite: 1]
-*://*.tqgfsgsqssuq.art/*[cite: 1]
-*://*.tpxqrcpnbtxy.shop/*[cite: 1]
-*://*.rpvaiqwwcxfz.cfd/*[cite: 1]
-*://*.apkbvrspogjx.digital/*[cite: 1]
-*://*.wkjpfmglbmdu.website/*[cite: 1]
-*://*.cfclvghbfsyk.yachts/*[cite: 1]
-*://*.udfivvphfqdc.online/*[cite: 1]
-*://*.eeylvtjaasrl.study/*[cite: 1]
-*://*.fwpfrtnxaftd.lat/*[cite: 1]
-*://*.cjzsrcgucemw.lat/*[cite: 1]
-*://*.gfpzjlztglic.live/*[cite: 1]
-*://*.sizylxbmsleu.vu/*[cite: 1]
-*://*.hyjtljlwxdns.today/*[cite: 1]
-*://*.bntyuzjvpqpz.beer/*[cite: 1]
-*://*.owhooprrbtdt.living/*[cite: 1]
-*://*.zqnnlombdgab.xyz/*[cite: 1]
-*://*.nkzwxodoaspb.live/*[cite: 1]
-*://*.swmugqgxxzrc.world/*[cite: 1]
+---
+name: DGA & Random Subdomain Spam Blocklist
+description: Blocks automated DGA (Domain Generation Algorithm) spam subdomains targeting search results.
+homepage: https://github.com/william-Johnason/ublacklist-dga-spam
+Update Interval: 1
+---
+*://*.admfzxkxsfka.site/*
+*://*.qevcgxyfkwsw.business/*
+*://*.phduzkelqyid.space/*
+*://*.unmomnsvufda.team/*
+*://*.kkpocydtrexl.boats/*
+*://*.nxdwsybkdjjj.cam/*
+*://*.galskubybjsk.cfd/*
+*://*.tykybzwrzaph.hair/*
+*://*.hueqosfwiaun.asia/*
+*://*.wmwnmgpcjini.pw/*
+*://*.ptenqbrsylwm.today/*
+*://*.uwyicgtjvunb.work/*
+*://*.isabrakmvcem.makeup/*
+*://*.ejpsouhaqjau.work/*
+*://*.xybxdgjminuo.pw/*
+*://*.gvzfuuuojypk.autos/*
+*://*.kpbmabdiagso.college/*
+*://*.ypycphtnivqj.top/*
+*://*.zunebuuihufz.beer/*
+*://*.xdlkvdtvuzjr.boutique/*
+*://*.hkmptaoxpylb.homes/*
+*://*.luuifuatquwq.boutique/*
+*://*.fymuklmdnuap.world/*
+*://*.vapwbyvtjiyo.coupons/*
+*://*.umiqqfnybpio.fit/*
+*://*.djarxyfvpuph.rent/*
+*://*.ocwmsgbjvoys.company/*
+*://*.sdzcozrmikxl.ink/*
+*://*.qvnhoeyiiptu.fit/*
+*://*.ukofnxcbgglp.tattoo/*
+*://*.vshpojnjtnvj.art/*
+*://*.oyugdlllzhrl.bar/*
+*://*.sttybaxqvwvb.courses/*
+*://*.dregfxyherxa.wtf/*
+*://*.hqjjnholkpfp.makeup/*
+*://*.ftrtujytqbwi.pics/*
+*://*.tqgfsgsqssuq.art/*
+*://*.tpxqrcpnbtxy.shop/*
+*://*.rpvaiqwwcxfz.cfd/*
+*://*.apkbvrspogjx.digital/*
+*://*.wkjpfmglbmdu.website/*
+*://*.cfclvghbfsyk.yachts/*
+*://*.udfivvphfqdc.online/*
+*://*.eeylvtjaasrl.study/*
+*://*.fwpfrtnxaftd.lat/*
+*://*.cjzsrcgucemw.lat/*
+*://*.gfpzjlztglic.live/*
+*://*.sizylxbmsleu.vu/*
+*://*.hyjtljlwxdns.today/*
+*://*.bntyuzjvpqpz.beer/*
+*://*.owhooprrbtdt.living/*
+*://*.zqnnlombdgab.xyz/*
+*://*.nkzwxodoaspb.live/*
+*://*.swmugqgxxzrc.world/*
