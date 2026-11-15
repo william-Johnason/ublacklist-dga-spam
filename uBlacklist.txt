@@ -551,3 +551,7 @@ Update Interval: 1
 *://*.uqzknmbqkomx.video/*
 *://*.xkkullgumoyl.video/*
 *://*.ravonexilon.xyz/*
+*://*.drelvantori.xyz/*
+*://*.zalvertonix.xyz/*
+*://*.melvatrixon.xyz/*
+*://*.daqghncchtcm.video/*
